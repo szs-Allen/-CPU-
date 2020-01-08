@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="test_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="test" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="97867441280fs"></ZoomStartTime>
+      <ZoomEndTime time="97889041281fs"></ZoomEndTime>
+      <Cursor1Time time="67622780000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="158"></NameColumnWidth>
+      <ValueColumnWidth column_width="103"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="45" />
+   <wvobject fp_name="/test/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/Reset" type="logic">
+      <obj_property name="ElementShortName">Reset</obj_property>
+      <obj_property name="ObjectShortName">Reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/alu/A" type="array">
+      <obj_property name="ElementShortName">A[31:0]</obj_property>
+      <obj_property name="ObjectShortName">A[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/alu/B" type="array">
+      <obj_property name="ElementShortName">B[31:0]</obj_property>
+      <obj_property name="ObjectShortName">B[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/alu/ALUOp" type="array">
+      <obj_property name="ElementShortName">ALUOp[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUOp[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/alu/result" type="array">
+      <obj_property name="ElementShortName">result[31:0]</obj_property>
+      <obj_property name="ObjectShortName">result[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/alu/zero" type="logic">
+      <obj_property name="ElementShortName">zero</obj_property>
+      <obj_property name="ObjectShortName">zero</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/instmem/addr" type="array">
+      <obj_property name="ElementShortName">addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/instmem/dout" type="array">
+      <obj_property name="ElementShortName">dout[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dout[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/instmem/im" type="array">
+      <obj_property name="ElementShortName">im[0:1023][31:0]</obj_property>
+      <obj_property name="ObjectShortName">im[0:1023][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/instmem/i" type="array">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Op" type="array">
+      <obj_property name="ElementShortName">Op[5:0]</obj_property>
+      <obj_property name="ObjectShortName">Op[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Func" type="array">
+      <obj_property name="ElementShortName">Func[5:0]</obj_property>
+      <obj_property name="ObjectShortName">Func[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Z" type="logic">
+      <obj_property name="ElementShortName">Z</obj_property>
+      <obj_property name="ObjectShortName">Z</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Regrt" type="logic">
+      <obj_property name="ElementShortName">Regrt</obj_property>
+      <obj_property name="ObjectShortName">Regrt</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Se" type="logic">
+      <obj_property name="ElementShortName">Se</obj_property>
+      <obj_property name="ObjectShortName">Se</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Wreg" type="logic">
+      <obj_property name="ElementShortName">Wreg</obj_property>
+      <obj_property name="ObjectShortName">Wreg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Aluqb" type="logic">
+      <obj_property name="ElementShortName">Aluqb</obj_property>
+      <obj_property name="ObjectShortName">Aluqb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Wmem" type="logic">
+      <obj_property name="ElementShortName">Wmem</obj_property>
+      <obj_property name="ObjectShortName">Wmem</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Reg2reg" type="logic">
+      <obj_property name="ElementShortName">Reg2reg</obj_property>
+      <obj_property name="ObjectShortName">Reg2reg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Pcsrc" type="array">
+      <obj_property name="ElementShortName">Pcsrc[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Pcsrc[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Aluc" type="array">
+      <obj_property name="ElementShortName">Aluc[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Aluc[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/R_type" type="logic">
+      <obj_property name="ElementShortName">R_type</obj_property>
+      <obj_property name="ObjectShortName">R_type</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Op_addu" type="logic">
+      <obj_property name="ElementShortName">Op_addu</obj_property>
+      <obj_property name="ObjectShortName">Op_addu</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Op_subu" type="logic">
+      <obj_property name="ElementShortName">Op_subu</obj_property>
+      <obj_property name="ObjectShortName">Op_subu</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Op_and" type="logic">
+      <obj_property name="ElementShortName">Op_and</obj_property>
+      <obj_property name="ObjectShortName">Op_and</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Op_or" type="logic">
+      <obj_property name="ElementShortName">Op_or</obj_property>
+      <obj_property name="ObjectShortName">Op_or</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Op_jr" type="logic">
+      <obj_property name="ElementShortName">Op_jr</obj_property>
+      <obj_property name="ObjectShortName">Op_jr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Op_addi" type="logic">
+      <obj_property name="ElementShortName">Op_addi</obj_property>
+      <obj_property name="ObjectShortName">Op_addi</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Op_andi" type="logic">
+      <obj_property name="ElementShortName">Op_andi</obj_property>
+      <obj_property name="ObjectShortName">Op_andi</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Op_lui" type="logic">
+      <obj_property name="ElementShortName">Op_lui</obj_property>
+      <obj_property name="ObjectShortName">Op_lui</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Op_ori" type="logic">
+      <obj_property name="ElementShortName">Op_ori</obj_property>
+      <obj_property name="ObjectShortName">Op_ori</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Op_lw" type="logic">
+      <obj_property name="ElementShortName">Op_lw</obj_property>
+      <obj_property name="ObjectShortName">Op_lw</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Op_sw" type="logic">
+      <obj_property name="ElementShortName">Op_sw</obj_property>
+      <obj_property name="ObjectShortName">Op_sw</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Op_beq" type="logic">
+      <obj_property name="ElementShortName">Op_beq</obj_property>
+      <obj_property name="ObjectShortName">Op_beq</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Op_bne" type="logic">
+      <obj_property name="ElementShortName">Op_bne</obj_property>
+      <obj_property name="ObjectShortName">Op_bne</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Op_j" type="logic">
+      <obj_property name="ElementShortName">Op_j</obj_property>
+      <obj_property name="ObjectShortName">Op_j</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/conunit/Op_jal" type="logic">
+      <obj_property name="ElementShortName">Op_jal</obj_property>
+      <obj_property name="ObjectShortName">Op_jal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/datamem/addr" type="array">
+      <obj_property name="ElementShortName">addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/datamem/din" type="array">
+      <obj_property name="ElementShortName">din[31:0]</obj_property>
+      <obj_property name="ObjectShortName">din[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/datamem/we" type="logic">
+      <obj_property name="ElementShortName">we</obj_property>
+      <obj_property name="ObjectShortName">we</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/datamem/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/datamem/dout" type="array">
+      <obj_property name="ElementShortName">dout[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dout[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/datamem/dm" type="array">
+      <obj_property name="ElementShortName">dm[0:1023][31:0]</obj_property>
+      <obj_property name="ObjectShortName">dm[0:1023][31:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/test1/datamem/i" type="array">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+</wave_config>

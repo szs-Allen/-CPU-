@@ -1,0 +1,62 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PCadd4
+INFO: [VRFC 10-311] analyzing module CLA_32
+INFO: [VRFC 10-311] analyzing module CLA_4
+INFO: [VRFC 10-2458] undeclared symbol tmp_0_0_0, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:52]
+INFO: [VRFC 10-2458] undeclared symbol tmp_0_0_1, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:53]
+INFO: [VRFC 10-2458] undeclared symbol tmp_0_1_0, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:54]
+INFO: [VRFC 10-2458] undeclared symbol tmp_0_1_1, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:55]
+INFO: [VRFC 10-2458] undeclared symbol tmp_0_2_0, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:56]
+INFO: [VRFC 10-2458] undeclared symbol tmp_0_2_1, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:57]
+INFO: [VRFC 10-2458] undeclared symbol tmp_0_3_0, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:58]
+INFO: [VRFC 10-2458] undeclared symbol tmp_0_3_1, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:59]
+INFO: [VRFC 10-2458] undeclared symbol tmp_1_0_0, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:60]
+INFO: [VRFC 10-2458] undeclared symbol S0, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:61]
+INFO: [VRFC 10-2458] undeclared symbol tmp_1_1_0, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:62]
+INFO: [VRFC 10-2458] undeclared symbol tmp_1_1_1, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:63]
+INFO: [VRFC 10-2458] undeclared symbol tmp_1_1_2, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:64]
+INFO: [VRFC 10-2458] undeclared symbol tmp_2_0_0, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:65]
+INFO: [VRFC 10-2458] undeclared symbol S1, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:66]
+INFO: [VRFC 10-2458] undeclared symbol tmp_1_2_0, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:67]
+INFO: [VRFC 10-2458] undeclared symbol tmp_1_2_1, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:68]
+INFO: [VRFC 10-2458] undeclared symbol tmp_1_2_2, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:69]
+INFO: [VRFC 10-2458] undeclared symbol tmp_1_2_3, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:70]
+INFO: [VRFC 10-2458] undeclared symbol tmp_2_1_0, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:71]
+INFO: [VRFC 10-2458] undeclared symbol S2, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:72]
+INFO: [VRFC 10-2458] undeclared symbol tmp_1_3_0, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:73]
+INFO: [VRFC 10-2458] undeclared symbol tmp_1_3_1, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:74]
+INFO: [VRFC 10-2458] undeclared symbol tmp_1_3_2, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:75]
+INFO: [VRFC 10-2458] undeclared symbol tmp_1_3_3, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:76]
+INFO: [VRFC 10-2458] undeclared symbol tmp_1_3_4, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:77]
+INFO: [VRFC 10-2458] undeclared symbol tmp_2_2_0, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:78]
+INFO: [VRFC 10-2458] undeclared symbol S3, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:79]
+INFO: [VRFC 10-2458] undeclared symbol tmp_1_4_0, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:80]
+INFO: [VRFC 10-2458] undeclared symbol tmp_1_4_1, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:81]
+INFO: [VRFC 10-2458] undeclared symbol tmp_1_4_2, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:82]
+INFO: [VRFC 10-2458] undeclared symbol tmp_1_4_3, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:83]
+INFO: [VRFC 10-2458] undeclared symbol tmp_1_4_4, assumed default net type wire [F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/PCadd4.v:84]
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CONUNIT
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/dm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dm_4k
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/extend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SignExtend
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/im.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module im_4k
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/mips.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mips
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux5x32
+INFO: [VRFC 10-311] analyzing module Mux2x5
+INFO: [VRFC 10-311] analyzing module Mux2x32
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/pc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/registerfile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegisterFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Code/Mips_CPU/Mips_CPU.srcs/sources_1/new/shifter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shifter32_L2
+INFO: [VRFC 10-311] analyzing module shifter_combination
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Code/Mips_CPU/Mips_CPU.srcs/sim_1/new/test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test
